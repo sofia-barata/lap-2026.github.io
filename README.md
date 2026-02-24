@@ -50,9 +50,9 @@ O Atendimento em horário de dúvidas será feito com marcação prévia por e-m
 | Docente              | Horário                     | E-mail                                 |
 |----------------------|-----------------------------|----------------------------------------|
 | João Costa Seco      | 5ª-feira 16h30 (P2/1-II)    | joao.seco \<arroba> fct.unl.pt          |
-| Vasco Amaral      |       | vasco.amaral \<arroba> fct.unl.pt          |
-| Mario Pereira      |       | mario.pereira \<arroba> fct.unl.pt          |
-| Ion Chirica      |       |           |
+| Vasco Amaral      |   2ª-feira 16h30    | vasco.amaral \<arroba> fct.unl.pt          |
+| Mario Pereira      | 4ª-feira 10h00      | mjp.pereira \<arroba> fct.unl.pt          |
+| Ion Chirica      |       |     i.chirica \<arroba> campus.fct.unl.pt      |
 
 
 ## Programa

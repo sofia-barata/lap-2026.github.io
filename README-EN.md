@@ -31,10 +31,10 @@ Office hours will be held by appointment via email the day before at the followi
 
 | Teacher              | Office hours                | E-mail                              |
 |----------------------|-----------------------------|-------------------------------------|
-| João Costa Seco      | 5ª-feira 16h30 (P2/1-II)    | joao.seco \<arroba> fct.unl.pt          |
-| Vasco Amaral      |       | vasco.amaral \<arroba> fct.unl.pt          |
-| Mario Pereira      |       | mario.pereira \<arroba> fct.unl.pt          |
-| Ion Chirica      |       |           |
+| João Costa Seco      | Thursday 16h30 (P2/1-II)    | joao.seco \<arroba> fct.unl.pt          |
+| Vasco Amaral      |   Monday 16h30    | vasco.amaral \<arroba> fct.unl.pt          |
+| Mario Pereira      | Wednesday 10h00      | mjp.pereira \<arroba> fct.unl.pt          |
+| Ion Chirica      |       |     i.chirica \<arroba> campus.fct.unl.pt      |
 
 
 ## Syllabus
