@@ -45,5 +45,8 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 
 |Week|Date|Theoretical|Practical|Materials|
 |----|----|-----------|---------|---------|
-|1|5/3|[Introduction. Logistics and evaluation.](slides/en/lec0.pdf) [The history and future of programming languages.](slides/en/lec1.pdf)|||
+|1|25/2|[Introduction. Logistics and evaluation.](slides/en/lec0.pdf) [The history and future of programming languages.](slides/en/lec1.pdf)|||
 |1|P|||No labs. Though, we recommend you follow the [installation guide](praticas/en/lab1/installation.md).||
+|1|26/2|[Functional programming. The OCaml language. Expressions, Variables, and Types. Library functions. Basic Input/Output.](slides/en/lec2.pdf)|||
+|2|4/3|[Name declaration; function declaration, with and without parameters; Expression evaluation by substitution; Functions as values (first time); Partial function evaluation.](slides/en/lec3.pdf)|||
+|2|P||[Exercises](praticas/en/lab1/lab1_exp_vars_types(2).ipynb)||

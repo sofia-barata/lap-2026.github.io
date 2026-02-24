@@ -520,7 +520,6 @@ sudo jupyter kernelspec install --name ocaml-jupyter "$(opam var share)/jupyter"
 Finalmente, deverá instalar a extensão `Jupyter` dentro do VS Code. Dentro do
 notebook deverá conseguir selecionar o kernel de OCaml previamente instalado. Se
 todos estes passos forem bem sucessidos, deverá ser capaz de explorar o [Jupyter
-Notebook desta primeira semana][kick-the-tires] de aulas práticas.
+Notebook desta primeira semana](lab1_kick_the_tires(1).ipynb) de aulas práticas.
 
 [kick-the-tires]: kick_the_tires.ipynb
-

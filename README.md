@@ -61,5 +61,8 @@ O plano tentativo para as aulas será aqui exposto.
 
 |Semana|Data|Teóricas|Práticas|Materiais|
 |------|----|--------|--------|---------|
-|1|6/3|[Apresentação. Logística e avaliação.](slides/pt/aula0.pdf) [A história e o futuro das linguagens de programação.](slides/pt/aula1.pdf)|||
-|1|P|||Não há aulas práticas. No entanto a [instalação das ferramentas](praticas/pt/lab1/installation.md) é recomendada.|
+|1|25/2|[Apresentação. Logística e avaliação.](slides/pt/aula0.pdf) [A história e o futuro das linguagens de programação.](slides/pt/aula1.pdf)|||
+|1|26/2|[Programação funcional. A linguagem OCaml. Expressões, Variáveis e tipos. Funções biblioteca. Input/Output básico.](slides/pt/aula2.pdf)|||
+|1|P||Não há aulas práticas. No entanto a [instalação das ferramentas](praticas/pt/lab1/installation.md) é recomendada.||
+|2|4/3|[Declaração de nomes; declaração de funções, com e sem parâmetros; Avaliação de expressões por substituição; Funções como valores (primeira vez); Avaliação parcial de funções](slides/pt/aula3.pdf)|||
+|2|P||[Exercícios](praticas/pt/lab1/lab1_exp_vars_types(2).ipynb)||

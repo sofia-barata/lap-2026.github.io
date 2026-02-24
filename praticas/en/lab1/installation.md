@@ -539,7 +539,7 @@ Finally, you should install the `Jupyter` extension within VS
 Code. Inside the notebook, you should be able to select the previously
 installed OCaml kernel. If all these steps are successful, you should
 be able to explore the [Jupyter Notebook for this first
-week][kick-the-tires] of practical classes.
+week](lab1_kick_the_tires(1).ipynb) of practical classes.
 
 [kick-the-tires]: kick_the_tires.ipynb
 
