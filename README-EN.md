@@ -51,3 +51,4 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |2|4/3|[Name declaration; function declaration, with and without parameters; Expression evaluation by substitution; Functions as values (first time); Partial function evaluation.](slides/en/lec3.pdf)|||
 |2|P||[Exercises](praticas/en/lab1/lab1_exp_vars_types(2).ipynb)||
 |3|P||[Exercises 1](praticas/en/lab2/lab2_basic_functions(1).ipynb) [Exercises 2](praticas/en/lab2/lab2_io_unit_rec(2).ipynb)||
+|4|P||[Exercises](praticas/en/lab3/lab3_typeinf_comp_corr_inductive.ipynb) ||
