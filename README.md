@@ -67,3 +67,4 @@ O plano tentativo para as aulas será aqui exposto.
 |2|4/3|[Declaração de nomes; declaração de funções, com e sem parâmetros; Avaliação de expressões por substituição; Funções como valores (primeira vez); Avaliação parcial de funções](slides/pt/aula3.pdf)|||
 |2|P||[Exercícios](praticas/pt/lab1/lab1_exp_vars_types(2).ipynb)||
 |3|P||[Exercícios 1](praticas/pt/lab2/lab2_basic_functions(1).ipynb) [Exercícios 2](praticas/pt/lab2/lab2_io_unit_rec(2).ipynb)||
+|4|P||[Exercícios](praticas/pt/lab3/lab3_typeinf_comp_corr_inductive.ipynb) ||
