@@ -1,0 +1,7 @@
+(test
+ (name utests)
+ (libraries ounit2 tiles))
+
+(test
+ (name test_tiles)
+ (libraries tiles))

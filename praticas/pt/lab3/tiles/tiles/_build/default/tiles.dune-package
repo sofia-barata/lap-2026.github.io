@@ -1,0 +1,7 @@
+(lang dune 3.21)
+(name tiles)
+(sections (lib .) (bin ../../bin) (doc ../../doc/tiles))
+(files
+ (lib (META dune-package opam))
+ (bin (tiles))
+ (doc (LICENSE LICENSE:Zone.Identifier)))

@@ -1,0 +1,17 @@
+# dune test
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/sofia/.cache/dune/db
+# Workspace root:
+# /home/sofia/lap2026/lap-2026.github.io/praticas/pt/lab3/tiles/tiles
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/sofia/.opam/lap2026/bin/ocamlc.opt -config > /tmp/dune_e92536_output

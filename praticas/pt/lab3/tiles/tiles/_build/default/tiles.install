@@ -1,0 +1,12 @@
+lib: [
+  "_build/install/default/lib/tiles/META"
+  "_build/install/default/lib/tiles/dune-package"
+  "_build/install/default/lib/tiles/opam"
+]
+bin: [
+  "_build/install/default/bin/tiles"
+]
+doc: [
+  "_build/install/default/doc/tiles/LICENSE"
+  "_build/install/default/doc/tiles/LICENSE:Zone.Identifier"
+]
