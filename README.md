@@ -65,6 +65,14 @@ O plano tentativo para as aulas será aqui exposto.
 |1|26/2|[Programação funcional. A linguagem OCaml. Expressões, Variáveis e tipos. Funções biblioteca. Input/Output básico.](slides/pt/aula2.pdf)|||
 |1|P||Não há aulas práticas. No entanto a [instalação das ferramentas](praticas/pt/lab1/installation.md) é recomendada.||
 |2|4/3|[Declaração de nomes; declaração de funções, com e sem parâmetros; Avaliação de expressões por substituição; Funções como valores (primeira vez); Avaliação parcial de funções](slides/pt/aula3.pdf)|||
-|2|P||[Exercícios](praticas/pt/lab1/lab1_exp_vars_types(2).ipynb)||
-|3|P||[Exercícios 1](praticas/pt/lab2/lab2_basic_functions(1).ipynb) [Exercícios 2](praticas/pt/lab2/lab2_io_unit_rec(2).ipynb)||
-|4|P||[Exercícios](praticas/pt/lab3/lab3_inductive.ipynb) |[Projeto Dune](praticas/pt/lab3/tiles.zip)|
+|2|5/3|[Funções com múltiplos parâmetros, Currying. Pré- e pós-condições. Correção de programas. Testes unitários. Funções como valores (Ordem superior). Composição de funções](slides/pt/aula4.pdf)|||
+|2|P||[Exercícios: Expressões, Variáveis e Tipos na Linguagem OCaml](praticas/pt/lab1/lab1_exp_vars_types(2).ipynb)||
+|3|10/3|[Funções recursivas sobre números naturais. Raciocínio indutivo vs. Raciocínio iterativo. Tail recursion](slides/pt/aula6.pdf)|||
+|3|11/3|Não houve aula. Celebrações dos 50 anos da Licenciatura em Engenharia Informática|||
+|3|P||[Exercícios 1: Tipos de Funções, conversão entre tipos e cálculo de funções](praticas/pt/lab2/lab2_basic_functions(1).ipynb) ||
+|3|P||[Exercícios 2: Input/Output, Testes Unitários e Definição de Funções Recursivas na Linguagem OCaml](praticas/pt/lab2/lab2_io_unit_rec(2).ipynb) ||
+|4|18/3|[Funções recursivas com números naturais (recap). Tipo função. Polimorﬁsmo. Inferência de tipos.](slides/pt/aula5.pdf)|||
+|4|19/3|[Tipos compostos: pares, tipos soma e pattern matching.](slides/pt/aula7.pdf)|||
+|4|P||[Exercícios: Pensamento Indutivo](praticas/pt/lab3/lab3_inductive.ipynb) |[Projeto Dune](praticas/pt/lab3/tiles.zip)|
+|5|P||[Exercícios: Tipos produto e soma](praticas/pt/lab4/lab4_prod_sum_types_recs.ipynb)||
+|6|P||[Exercícios: Listas](praticas/pt/lab5/lab5_listas.ipynb) [Exercícios: Funções de ordem superior](<praticas/pt/lab5/lab5_comb_higer_order_fun copy.ipynb>)||

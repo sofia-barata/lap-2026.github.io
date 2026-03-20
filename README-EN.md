@@ -49,6 +49,14 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |1|P|||No labs. Though, we recommend you follow the [installation guide](praticas/en/lab1/installation.md).||
 |1|26/2|[Functional programming. The OCaml language. Expressions, Variables, and Types. Library functions. Basic Input/Output.](slides/en/lec2.pdf)|||
 |2|4/3|[Name declaration; function declaration, with and without parameters; Expression evaluation by substitution; Functions as values (first time); Partial function evaluation.](slides/en/lec3.pdf)|||
-|2|P||[Exercises](praticas/en/lab1/lab1_exp_vars_types(2).ipynb)||
-|3|P||[Exercises 1](praticas/en/lab2/lab2_basic_functions(1).ipynb) [Exercises 2](praticas/en/lab2/lab2_io_unit_rec(2).ipynb)||
-|4|P||[Exercises](praticas/en/lab3/lab3_inductive.ipynb) | [Dune project](praticas/en/lab3/tiles.zip)|
+|2|5/3|[Functions with multiple parameters, Currying. Pre- and post-conditions. Program correctness. Unit testing. Functions as values (Higher-order). Function composition.](slides/en/lec4.pdf)|||
+|2|P||[Exercises: Expressions, Variables and Types in OCaml](praticas/en/lab1/lab1_exp_vars_types(2).ipynb)||
+|3|10/3|[Recursive functions over natural numbers. Inductive reasoning vs. Iterative reasoning. Tail recursion.](slides/en/lec6.pdf)|||
+|3|11/3|No lecture. Celebrations of the 50th anniversary of the Computer Science degree.|||
+|3|P||[Exercises 1: Function types, type conversion and function evaluation](praticas/en/lab2/lab2_basic_functions(1).ipynb) ||
+|3|P||[Exercises 2: Input/Output, Unit Testing and Recursive Function Definition in OCaml](praticas/en/lab2/lab2_io_unit_rec(2).ipynb) ||
+|4|18/3|[Recursive functions over natural numbers (recap). Function type. Polymorphism. Type inference.](slides/en/lec5.pdf)|||
+|4|19/3|[Composite types: pairs, sum types and pattern matching.](slides/en/lec7.pdf)|||
+|4|P||[Exercises: Inductive Reasoning](praticas/en/lab3/lab3_inductive.ipynb) | [Dune project](praticas/en/lab3/tiles.zip)|
+|5|P||[Exercises: Product and sum types](praticas/en/lab4/lab4_prod_sum_types_recs.ipynb)||
+|6|P||[Exercises: Lists](praticas/en/lab5/lab4_lists.ipynb) [Exercises: Higher-order functions](praticas/en/lab5/lab5_comb_higer_order_fun.ipynb)||
