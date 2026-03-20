@@ -1,4 +1,4 @@
-# Linguagens e Ambientes de Programação (Edição 2025)
+# Linguagens e Ambientes de Programação (Edição 2026)
 
 (to read this page in English, click [here](README-EN.md))
 
