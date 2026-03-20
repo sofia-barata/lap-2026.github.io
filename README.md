@@ -47,12 +47,12 @@ OCaml](https://ocaml.org/books). Nomeadamente:
 
 O Atendimento em horário de dúvidas será feito com marcação prévia por e-mail no dia anterior até às 18h00 nos seguintes locais e usando os respetivos contatos:
 
-| Docente              | Horário                     | E-mail                                 |
-|----------------------|-----------------------------|----------------------------------------|
-| João Costa Seco      | 5ª-feira 16h30 (P2/1-II)    | joao.seco \<arroba> fct.unl.pt          |
-| Vasco Amaral      |   2ª-feira 16h30    | vasco.amaral \<arroba> fct.unl.pt          |
-| Mario Pereira      | 4ª-feira 10h00      | mjp.pereira \<arroba> fct.unl.pt          |
-| Ion Chirica      |       |     i.chirica \<arroba> campus.fct.unl.pt      |
+| Docente         | Horário                  | E-mail                                |
+|-----------------|--------------------------|---------------------------------------|
+| João Costa Seco | 5ª-feira 16h30 (P2/1-II) | joao.seco \<arroba> fct.unl.pt        |
+| Vasco Amaral    | 2ª-feira 16h30           | vasco.amaral \<arroba> fct.unl.pt     |
+| Mario Pereira   | 4ª-feira 10h00           | mjp.pereira \<arroba> fct.unl.pt      |
+| Ion Chirica     | 2ª-feira 18h00           | i.chirica \<arroba> campus.fct.unl.pt |
 
 
 ## Programa

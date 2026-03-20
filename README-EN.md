@@ -29,12 +29,12 @@ During lectures, references will be made to materials from other books freely av
 
 Office hours will be held by appointment via email the day before at the following locations and contacts:
 
-| Teacher              | Office hours                | E-mail                              |
-|----------------------|-----------------------------|-------------------------------------|
-| João Costa Seco      | Thursday 16h30 (P2/1-II)    | joao.seco \<arroba> fct.unl.pt          |
-| Vasco Amaral      |   Monday 16h30    | vasco.amaral \<arroba> fct.unl.pt          |
-| Mario Pereira      | Wednesday 10h00      | mjp.pereira \<arroba> fct.unl.pt          |
-| Ion Chirica      |       |     i.chirica \<arroba> campus.fct.unl.pt      |
+| Teacher         | Office hours             | E-mail                                |
+|-----------------|--------------------------|---------------------------------------|
+| João Costa Seco | Thursday 16h30 (P2/1-II) | joao.seco \<arroba> fct.unl.pt        |
+| Vasco Amaral    | Monday 16h30             | vasco.amaral \<arroba> fct.unl.pt     |
+| Mario Pereira   | Wednesday 10h00          | mjp.pereira \<arroba> fct.unl.pt      |
+| Ion Chirica     | Monday 18h00             | i.chirica \<arroba> campus.fct.unl.pt |
 
 
 ## Syllabus
