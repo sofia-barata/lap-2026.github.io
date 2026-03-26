@@ -14,7 +14,7 @@
 #  ; build_dir = In_build_dir "default"
 #  ; instrument_with = []
 #  }
-$ /home/sofia/.opam/lap2026/bin/ocamlc.opt -config > /tmp/dune_284dd0_output
+$ /home/sofia/.opam/lap2026/bin/ocamlc.opt -config > /tmp/dune_dac9d7_output
 $ (cd _build/default && /home/sofia/.opam/lap2026/bin/ocamlc.opt -short-paths -keep-locs -warn-error +a -g -bin-annot -I lib/.tiles.objs/byte -no-alias-deps -opaque -o lib/.tiles.objs/byte/tiles.cmo -c -impl lib/tiles.ml)
 $ (cd _build/default && /home/sofia/.opam/lap2026/bin/ocamlopt.opt -short-paths -keep-locs -warn-error +a -g -I lib/.tiles.objs/byte -I lib/.tiles.objs/native -intf-suffix .ml -no-alias-deps -opaque -o lib/.tiles.objs/native/tiles.cmx -c -impl lib/tiles.ml)
 $ (cd _build/default && /home/sofia/.opam/lap2026/bin/ocamlopt.opt -short-paths -keep-locs -warn-error +a -g -a -o lib/tiles.cmxa lib/.tiles.objs/native/tiles.cmx)

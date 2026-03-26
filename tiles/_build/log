@@ -1,0 +1,6 @@
+# dune init project tiles
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/sofia/.cache/dune/db
+# Workspace root: /home/sofia/lap2026/lap-2026.github.io/tiles
+# Auto-detected concurrency: 16

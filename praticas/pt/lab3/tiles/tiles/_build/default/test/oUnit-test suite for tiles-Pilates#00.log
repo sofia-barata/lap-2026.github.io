@@ -1,140 +1,124 @@
-2026-03-18T20:12:41+00:00 Pilates#00 I: Runner: processes
-2026-03-18T20:12:41+00:00 Pilates#00 I: Chooser: simple
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration suite_name = "test suite for tiles"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration cache_filename = "/home/sofia/lap2026/lap-2026.github.io/praticas/pt/lab3/tiles/tiles/_build/default/test/oUnit-$(suite_name).cache"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration run_gc_full_major = "true"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration display = "true"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration results_style_1_X = "false"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration testdata_dir = "none"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration health_check_interval = "1."
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration verbose = "false"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration chooser = "simple"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration output_html_dir = "none"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration processes_kill_period = "5."
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration runner = "processes"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration shards = "16"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration processes_grace_period = "5."
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration log_encoding = "utf-8"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration output_junit_file = "none"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration ci = "false"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Configuration output_file = "/home/sofia/lap2026/lap-2026.github.io/praticas/pt/lab3/tiles/tiles/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
-2026-03-18T20:12:41+00:00 Pilates#00 I: Using 16 workers maximum.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Starting worker number Pilates#01.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#01 started.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Starting worker number Pilates#02.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#02 started.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Starting worker number Pilates#03.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#03 started.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Starting worker number Pilates#04.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#04 started.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Starting worker number Pilates#05.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#05 started.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Starting worker number Pilates#06.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#06 started.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Starting worker number Pilates#07.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#07 started.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Starting worker number Pilates#08.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#08 started.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Starting worker number Pilates#09.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#09 started.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 9 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 9 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
-2026-03-18T20:12:41+00:00 Pilates#01 I: Start test test suite for tiles:0:tiles base1.
-2026-03-18T20:12:41+00:00 Pilates#02 I: Start test test suite for tiles:1:tiles base2.
-2026-03-18T20:12:41+00:00 Pilates#03 I: Start test test suite for tiles:2:tiles base3.
-2026-03-18T20:12:41+00:00 Pilates#04 I: Start test test suite for tiles:3:tiles base4.
-2026-03-18T20:12:41+00:00 Pilates#05 I: Start test test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#06 I: Start test test suite for tiles:5:tiles general2.
-2026-03-18T20:12:41+00:00 Pilates#07 I: Start test test suite for tiles:6:tiles general3.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 9 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 9 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
-2026-03-18T20:12:41+00:00 Pilates#01 I: Test test suite for tiles:0:tiles base1 is successful.
-2026-03-18T20:12:41+00:00 Pilates#02 I: Test test suite for tiles:1:tiles base2 is successful.
-2026-03-18T20:12:41+00:00 Pilates#03 I: Test test suite for tiles:2:tiles base3 is successful.
-2026-03-18T20:12:41+00:00 Pilates#04 I: Test test suite for tiles:3:tiles base4 is successful.
-2026-03-18T20:12:41+00:00 Pilates#06 I: Test test suite for tiles:5:tiles general2 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 9 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 9 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
-2026-03-18T20:12:41+00:00 Pilates#01 I: End test test suite for tiles:0:tiles base1.
-2026-03-18T20:12:41+00:00 Pilates#02 I: End test test suite for tiles:1:tiles base2.
-2026-03-18T20:12:41+00:00 Pilates#03 I: End test test suite for tiles:2:tiles base3.
-2026-03-18T20:12:41+00:00 Pilates#04 I: End test test suite for tiles:3:tiles base4.
-2026-03-18T20:12:41+00:00 Pilates#06 I: End test test suite for tiles:5:tiles general2.
-2026-03-18T20:12:41+00:00 Pilates#07 I: Test test suite for tiles:6:tiles general3 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 9 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 9 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
-2026-03-18T20:12:41+00:00 Pilates#07 I: End test test suite for tiles:6:tiles general3.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 4 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 4 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 3 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 3 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#08 I: Start test test suite for tiles:7:tiles general4.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 3 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 3 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#05 I: Test test suite for tiles:4:tiles general1 is successful.
-2026-03-18T20:12:41+00:00 Pilates#09 I: Start test test suite for tiles:8:tiles general5.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 3 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 3 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#05 I: End test test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#08 I: Test test suite for tiles:7:tiles general4 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 3 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 3 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:4:tiles general1.
-2026-03-18T20:12:41+00:00 Pilates#08 I: End test test suite for tiles:7:tiles general4.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 2 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 2 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 1 tests running : test suite for tiles:8:tiles general5.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 1 tests running: test suite for tiles:8:tiles general5.
-2026-03-18T20:12:41+00:00 Pilates#09 I: Test test suite for tiles:8:tiles general5 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 1 tests running : test suite for tiles:8:tiles general5.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 1 tests running: test suite for tiles:8:tiles general5.
-2026-03-18T20:12:41+00:00 Pilates#09 I: End test test suite for tiles:8:tiles general5.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Still 1 tests running : test suite for tiles:8:tiles general5.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 1 tests running: test suite for tiles:8:tiles general5.
-2026-03-18T20:12:41+00:00 Pilates#00 I: 0 tests running: .
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#01 has ended.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#02 has ended.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#03 has ended.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#04 has ended.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#06 has ended.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#07 has ended.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#05 has ended.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#08 has ended.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Worker Pilates#09 has ended.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Used 9 worker during test execution.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Run 1 tests with shard Pilates#04.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Run 1 tests with shard Pilates#08.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Run 1 tests with shard Pilates#05.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Run 1 tests with shard Pilates#07.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Run 1 tests with shard Pilates#09.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Run 1 tests with shard Pilates#02.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Run 1 tests with shard Pilates#03.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Run 1 tests with shard Pilates#01.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Run 1 tests with shard Pilates#06.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Check health of shard Pilates#04, 10 times.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Check health of shard Pilates#08, 4 times.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Check health of shard Pilates#07, 9 times.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Check health of shard Pilates#05, 5 times.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Check health of shard Pilates#09, 1 times.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Check health of shard Pilates#03, 10 times.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Check health of shard Pilates#02, 10 times.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Check health of shard Pilates#01, 10 times.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Check health of shard Pilates#06, 10 times.
-2026-03-18T20:12:41+00:00 Pilates#00 I: ==============
-2026-03-18T20:12:41+00:00 Pilates#00 I: Summary:
-2026-03-18T20:12:41+00:00 Pilates#00 I: Test test suite for tiles:8:tiles general5 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Test test suite for tiles:7:tiles general4 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Test test suite for tiles:4:tiles general1 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Test test suite for tiles:6:tiles general3 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Test test suite for tiles:5:tiles general2 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Test test suite for tiles:3:tiles base4 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Test test suite for tiles:2:tiles base3 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Test test suite for tiles:1:tiles base2 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Test test suite for tiles:0:tiles base1 is successful.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Ran: 9 tests in: 0.12 seconds.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Cases: 9.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Tried: 9.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Errors: 0.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Failures: 0.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Skip: 0.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Todo: 0.
-2026-03-18T20:12:41+00:00 Pilates#00 I: Timeout: 0.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Runner: processes
+2026-03-23T12:19:43+00:00 Pilates#00 I: Chooser: simple
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration suite_name = "test suite for tiles"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration cache_filename = "/home/sofia/lap2026/lap-2026.github.io/praticas/pt/lab3/tiles/tiles/_build/default/test/oUnit-$(suite_name).cache"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration run_gc_full_major = "true"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration display = "true"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration results_style_1_X = "false"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration testdata_dir = "none"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration health_check_interval = "1."
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration verbose = "false"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration chooser = "simple"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration output_html_dir = "none"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration processes_kill_period = "5."
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration runner = "processes"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration shards = "16"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration processes_grace_period = "5."
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration log_encoding = "utf-8"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration output_junit_file = "none"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration ci = "false"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Configuration output_file = "/home/sofia/lap2026/lap-2026.github.io/praticas/pt/lab3/tiles/tiles/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2026-03-23T12:19:43+00:00 Pilates#00 I: Using 16 workers maximum.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Starting worker number Pilates#01.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#01 started.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Starting worker number Pilates#02.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#02 started.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Starting worker number Pilates#03.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#03 started.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Starting worker number Pilates#04.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#04 started.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Starting worker number Pilates#05.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#05 started.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Starting worker number Pilates#06.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#06 started.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Starting worker number Pilates#07.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#07 started.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Starting worker number Pilates#08.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#08 started.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Starting worker number Pilates#09.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#09 started.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Still 9 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
+2026-03-23T12:19:43+00:00 Pilates#00 I: 9 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
+2026-03-23T12:19:43+00:00 Pilates#01 I: Start test test suite for tiles:0:tiles base1.
+2026-03-23T12:19:43+00:00 Pilates#02 I: Start test test suite for tiles:1:tiles base2.
+2026-03-23T12:19:43+00:00 Pilates#03 I: Start test test suite for tiles:2:tiles base3.
+2026-03-23T12:19:43+00:00 Pilates#04 I: Start test test suite for tiles:3:tiles base4.
+2026-03-23T12:19:43+00:00 Pilates#05 I: Start test test suite for tiles:4:tiles general1.
+2026-03-23T12:19:43+00:00 Pilates#06 I: Start test test suite for tiles:5:tiles general2.
+2026-03-23T12:19:43+00:00 Pilates#07 I: Start test test suite for tiles:6:tiles general3.
+2026-03-23T12:19:43+00:00 Pilates#08 I: Start test test suite for tiles:7:tiles general4.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Still 9 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
+2026-03-23T12:19:43+00:00 Pilates#00 I: 9 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
+2026-03-23T12:19:43+00:00 Pilates#01 I: Test test suite for tiles:0:tiles base1 is successful.
+2026-03-23T12:19:43+00:00 Pilates#02 I: Test test suite for tiles:1:tiles base2 is successful.
+2026-03-23T12:19:43+00:00 Pilates#03 I: Test test suite for tiles:2:tiles base3 is successful.
+2026-03-23T12:19:43+00:00 Pilates#04 I: Test test suite for tiles:3:tiles base4 is successful.
+2026-03-23T12:19:43+00:00 Pilates#05 I: Test test suite for tiles:4:tiles general1 is successful.
+2026-03-23T12:19:43+00:00 Pilates#06 I: Test test suite for tiles:5:tiles general2 is successful.
+2026-03-23T12:19:43+00:00 Pilates#07 I: Test test suite for tiles:6:tiles general3 is successful.
+2026-03-23T12:19:43+00:00 Pilates#08 I: Test test suite for tiles:7:tiles general4 is successful.
+2026-03-23T12:19:43+00:00 Pilates#09 I: Start test test suite for tiles:8:tiles general5.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Still 9 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
+2026-03-23T12:19:43+00:00 Pilates#00 I: 9 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
+2026-03-23T12:19:43+00:00 Pilates#01 I: End test test suite for tiles:0:tiles base1.
+2026-03-23T12:19:43+00:00 Pilates#02 I: End test test suite for tiles:1:tiles base2.
+2026-03-23T12:19:43+00:00 Pilates#03 I: End test test suite for tiles:2:tiles base3.
+2026-03-23T12:19:43+00:00 Pilates#04 I: End test test suite for tiles:3:tiles base4.
+2026-03-23T12:19:43+00:00 Pilates#05 I: End test test suite for tiles:4:tiles general1.
+2026-03-23T12:19:43+00:00 Pilates#06 I: End test test suite for tiles:5:tiles general2.
+2026-03-23T12:19:43+00:00 Pilates#07 I: End test test suite for tiles:6:tiles general3.
+2026-03-23T12:19:43+00:00 Pilates#08 I: End test test suite for tiles:7:tiles general4.
+2026-03-23T12:19:43+00:00 Pilates#09 I: Test test suite for tiles:8:tiles general5 is successful.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Still 9 tests running : test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
+2026-03-23T12:19:43+00:00 Pilates#00 I: 9 tests running: test suite for tiles:8:tiles general5, test suite for tiles:7:tiles general4, test suite for tiles:6:tiles general3, test suite for tiles:5:tiles general2, test suite for tiles:4:tiles general1, test suite for tiles:3:tiles base4, test suite for tiles:2:tiles base3, test suite for tiles:1:tiles base2, test suite for tiles:0:tiles base1.
+2026-03-23T12:19:43+00:00 Pilates#09 I: End test test suite for tiles:8:tiles general5.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Still 1 tests running : test suite for tiles:8:tiles general5.
+2026-03-23T12:19:43+00:00 Pilates#00 I: 1 tests running: test suite for tiles:8:tiles general5.
+2026-03-23T12:19:43+00:00 Pilates#00 I: 0 tests running: .
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#03 has ended.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#06 has ended.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#07 has ended.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#08 has ended.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#09 has ended.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#01 died unexpectedly.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#02 died unexpectedly.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#04 died unexpectedly.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Worker Pilates#05 died unexpectedly.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Used 9 worker during test execution.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Run 1 tests with shard Pilates#04.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Run 1 tests with shard Pilates#08.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Run 1 tests with shard Pilates#05.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Run 1 tests with shard Pilates#07.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Run 1 tests with shard Pilates#09.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Run 1 tests with shard Pilates#02.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Run 1 tests with shard Pilates#03.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Run 1 tests with shard Pilates#01.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Run 1 tests with shard Pilates#06.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Check health of shard Pilates#04, 3 times.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Check health of shard Pilates#08, 2 times.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Check health of shard Pilates#07, 2 times.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Check health of shard Pilates#05, 3 times.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Check health of shard Pilates#09, 1 times.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Check health of shard Pilates#03, 2 times.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Check health of shard Pilates#02, 3 times.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Check health of shard Pilates#01, 3 times.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Check health of shard Pilates#06, 2 times.
+2026-03-23T12:19:43+00:00 Pilates#00 I: ==============
+2026-03-23T12:19:43+00:00 Pilates#00 I: Summary:
+2026-03-23T12:19:43+00:00 Pilates#00 I: Test test suite for tiles:8:tiles general5 is successful.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Test test suite for tiles:7:tiles general4 is successful.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Test test suite for tiles:6:tiles general3 is successful.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Test test suite for tiles:5:tiles general2 is successful.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Test test suite for tiles:4:tiles general1 is successful.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Test test suite for tiles:3:tiles base4 is successful.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Test test suite for tiles:2:tiles base3 is successful.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Test test suite for tiles:1:tiles base2 is successful.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Test test suite for tiles:0:tiles base1 is successful.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Ran: 9 tests in: 0.12 seconds.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Cases: 9.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Tried: 9.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Errors: 0.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Failures: 0.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Skip: 0.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Todo: 0.
+2026-03-23T12:19:43+00:00 Pilates#00 I: Timeout: 0.
