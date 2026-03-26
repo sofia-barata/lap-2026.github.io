@@ -76,3 +76,4 @@ O plano tentativo para as aulas será aqui exposto.
 |4|P||[Exercícios: Pensamento Indutivo](praticas/pt/lab3/lab3_inductive.ipynb) |[Projeto Dune](praticas/pt/lab3/tiles.zip)|
 |5|P||[Exercícios: Tipos produto e soma](praticas/pt/lab4/lab4_prod_sum_types_recs.ipynb)||
 |6|P||[Exercícios: Listas](praticas/pt/lab5/lab5_listas.ipynb) [Exercícios: Funções de ordem superior](<praticas/pt/lab5/lab5_comb_higer_order_fun copy.ipynb>)||
+|-|Projeto 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf)|
