@@ -60,3 +60,4 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |4|P||[Exercises: Inductive Reasoning](praticas/en/lab3/lab3_inductive.ipynb) | [Dune project](praticas/en/lab3/tiles.zip)|
 |5|P||[Exercises: Product and sum types](praticas/en/lab4/lab4_prod_sum_types_recs.ipynb)||
 |6|P||[Exercises: Lists](praticas/en/lab5/lab4_lists.ipynb) [Exercises: Higher-order functions](praticas/en/lab5/lab5_comb_higer_order_fun.ipynb)||
+|-|Project 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf)|
