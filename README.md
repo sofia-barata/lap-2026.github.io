@@ -74,6 +74,7 @@ O plano tentativo para as aulas será aqui exposto.
 |4|18/3|[Funções recursivas com números naturais (recap). Tipo função. Polimorﬁsmo. Inferência de tipos.](slides/pt/aula5.pdf)|||
 |4|19/3|[Tipos compostos: pares, tipos soma e pattern matching.](slides/pt/aula7.pdf)|||
 |4|P||[Exercícios: Pensamento Indutivo](praticas/pt/lab3/lab3_inductive.ipynb) |[Projeto Dune](praticas/pt/lab3/tiles.zip)|
+|5|26/3|[Exercícios sobre listas. Funções de ordem superior. Funções map e fold.](slides/pt/aula9.ipynb) [Listas](slides/pt/aula9_1.ipynb)|||
 |5|P||[Exercícios: Tipos produto e soma](praticas/pt/lab4/lab4_prod_sum_types_recs.ipynb)||
 |6|P||[Exercícios: Listas](praticas/pt/lab5/lab5_listas.ipynb) [Exercícios: Funções de ordem superior](<praticas/pt/lab5/lab5_comb_higer_order_fun copy.ipynb>)||
-|-|Projeto 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf)|
+|-|Projeto 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf) [Projeto Dune](praticas/en/project1/hailmary.zip)|

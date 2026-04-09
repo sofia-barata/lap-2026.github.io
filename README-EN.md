@@ -58,6 +58,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |4|18/3|[Recursive functions over natural numbers (recap). Function type. Polymorphism. Type inference.](slides/en/lec5.pdf)|||
 |4|19/3|[Composite types: pairs, sum types and pattern matching.](slides/en/lec7.pdf)|||
 |4|P||[Exercises: Inductive Reasoning](praticas/en/lab3/lab3_inductive.ipynb) | [Dune project](praticas/en/lab3/tiles.zip)|
+|5|26/3|[Exercises on Lists. Higher-order functions. Maps and folds.](slides/en/lec9.ipynb) [Lists](slides/en/lec9_1.ipynb)|||
 |5|P||[Exercises: Product and sum types](praticas/en/lab4/lab4_prod_sum_types_recs.ipynb)||
 |6|P||[Exercises: Lists](praticas/en/lab5/lab4_lists.ipynb) [Exercises: Higher-order functions](praticas/en/lab5/lab5_comb_higer_order_fun.ipynb)||
-|-|Project 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf)|
+|-|Project 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf) [Dune project](praticas/en/project1/hailmary.zip)|
