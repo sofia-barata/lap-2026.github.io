@@ -61,4 +61,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |5|26/3|[Exercises on Lists. Higher-order functions. Maps and folds.](slides/en/lec9.ipynb) [Lists](slides/en/lec9_1.ipynb)|||
 |5|P||[Exercises: Product and sum types](praticas/en/lab4/lab4_prod_sum_types_recs.ipynb)||
 |6|P||[Exercises: Lists](praticas/en/lab5/lab4_lists.ipynb) [Exercises: Higher-order functions](praticas/en/lab5/lab5_comb_higer_order_fun.ipynb)||
+|6|1/4|[Merge sort.](slides/pt/aula10.ipynb)|||
+|7|8/4|[Algebraic Types. Binary trees.](slides/en/lec11.ipynb)|||
+|7|9/4|[N-ary trees.](slides/en/lec12.ipynb)|||
 |-|Project 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf) [Dune project](praticas/en/project1/hailmary.zip)|
