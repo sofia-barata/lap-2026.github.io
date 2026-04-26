@@ -1,0 +1,277 @@
+2026-04-12T22:49:51+00:00 Pilates#00 I: Runner: processes
+2026-04-12T22:49:51+00:00 Pilates#00 I: Chooser: simple
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration suite_name = "hail_mary"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration cache_filename = "/home/sofia/lap2026/lap-2026.github.io/praticas/en/project1/hailmary/hailmary/_build/default/test/oUnit-$(suite_name).cache"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration run_gc_full_major = "true"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration display = "true"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration results_style_1_X = "false"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration testdata_dir = "none"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration health_check_interval = "1."
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration verbose = "false"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration chooser = "simple"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration output_html_dir = "none"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration processes_kill_period = "5."
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration runner = "processes"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration shards = "16"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration processes_grace_period = "5."
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration log_encoding = "utf-8"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration output_junit_file = "none"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration ci = "false"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Configuration output_file = "/home/sofia/lap2026/lap-2026.github.io/praticas/en/project1/hailmary/hailmary/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2026-04-12T22:49:51+00:00 Pilates#00 I: Using 16 workers maximum.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#01.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#01 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#02.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#02 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#03.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#03 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#04.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#04 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#05.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#05 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#06.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#06 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#07.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#07 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#08.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#08 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#09.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#09 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#10.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#10 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#11.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#11 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#12.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#12 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#13.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#13 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#14.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#14 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#15.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#15 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Starting worker number Pilates#16.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#16 started.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 16 tests running: hail_mary:3:single_hazard:2:thermal_through_astrophage, hail_mary:3:single_hazard:1:thermal_through_radiation, hail_mary:3:single_hazard:0:taumoeba_through_astrophage, hail_mary:2:carrying:3:last_plot_ignore_tool, hail_mary:2:carrying:2:no_hazard_ahead_ignore_eva, hail_mary:2:carrying:1:no_hazard_ahead_ignore_thermal, hail_mary:2:carrying:0:no_hazard_ahead_ignore_taumoeba, hail_mary:1:trivial:6:five_easy_with_tools, hail_mary:1:trivial:5:five_easy_no_tools, hail_mary:1:trivial:4:two_easy_no_tools, hail_mary:1:trivial:3:single_easy_with_thermal, hail_mary:1:trivial:2:single_easy_with_eva, hail_mary:1:trivial:1:single_easy_with_taumoeba, hail_mary:1:trivial:0:single_easy_no_tool, hail_mary:0:samples:1:sample_2, hail_mary:0:samples:0:sample_1.
+2026-04-12T22:49:51+00:00 Pilates#01 I: Start test hail_mary:0:samples:0:sample_1.
+2026-04-12T22:49:51+00:00 Pilates#02 I: Start test hail_mary:0:samples:1:sample_2.
+2026-04-12T22:49:51+00:00 Pilates#03 I: Start test hail_mary:1:trivial:0:single_easy_no_tool.
+2026-04-12T22:49:51+00:00 Pilates#04 I: Start test hail_mary:1:trivial:1:single_easy_with_taumoeba.
+2026-04-12T22:49:51+00:00 Pilates#05 I: Start test hail_mary:1:trivial:2:single_easy_with_eva.
+2026-04-12T22:49:51+00:00 Pilates#06 I: Start test hail_mary:1:trivial:3:single_easy_with_thermal.
+2026-04-12T22:49:51+00:00 Pilates#07 I: Start test hail_mary:1:trivial:4:two_easy_no_tools.
+2026-04-12T22:49:51+00:00 Pilates#08 I: Start test hail_mary:1:trivial:5:five_easy_no_tools.
+2026-04-12T22:49:51+00:00 Pilates#09 I: Start test hail_mary:1:trivial:6:five_easy_with_tools.
+2026-04-12T22:49:51+00:00 Pilates#10 I: Start test hail_mary:2:carrying:0:no_hazard_ahead_ignore_taumoeba.
+2026-04-12T22:49:51+00:00 Pilates#11 I: Start test hail_mary:2:carrying:1:no_hazard_ahead_ignore_thermal.
+2026-04-12T22:49:51+00:00 Pilates#12 I: Start test hail_mary:2:carrying:2:no_hazard_ahead_ignore_eva.
+2026-04-12T22:49:51+00:00 Pilates#13 I: Start test hail_mary:2:carrying:3:last_plot_ignore_tool.
+2026-04-12T22:49:51+00:00 Pilates#14 I: Start test hail_mary:3:single_hazard:0:taumoeba_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#15 I: Start test hail_mary:3:single_hazard:1:thermal_through_radiation.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 16 tests running: hail_mary:3:single_hazard:2:thermal_through_astrophage, hail_mary:3:single_hazard:1:thermal_through_radiation, hail_mary:3:single_hazard:0:taumoeba_through_astrophage, hail_mary:2:carrying:3:last_plot_ignore_tool, hail_mary:2:carrying:2:no_hazard_ahead_ignore_eva, hail_mary:2:carrying:1:no_hazard_ahead_ignore_thermal, hail_mary:2:carrying:0:no_hazard_ahead_ignore_taumoeba, hail_mary:1:trivial:6:five_easy_with_tools, hail_mary:1:trivial:5:five_easy_no_tools, hail_mary:1:trivial:4:two_easy_no_tools, hail_mary:1:trivial:3:single_easy_with_thermal, hail_mary:1:trivial:2:single_easy_with_eva, hail_mary:1:trivial:1:single_easy_with_taumoeba, hail_mary:1:trivial:0:single_easy_no_tool, hail_mary:0:samples:1:sample_2, hail_mary:0:samples:0:sample_1.
+2026-04-12T22:49:51+00:00 Pilates#01 I: Test hail_mary:0:samples:0:sample_1 is successful.
+2026-04-12T22:49:51+00:00 Pilates#02 I: Test hail_mary:0:samples:1:sample_2 is successful.
+2026-04-12T22:49:51+00:00 Pilates#03 I: Test hail_mary:1:trivial:0:single_easy_no_tool is successful.
+2026-04-12T22:49:51+00:00 Pilates#04 I: Test hail_mary:1:trivial:1:single_easy_with_taumoeba is successful.
+2026-04-12T22:49:51+00:00 Pilates#05 I: Test hail_mary:1:trivial:2:single_easy_with_eva is successful.
+2026-04-12T22:49:51+00:00 Pilates#06 I: Test hail_mary:1:trivial:3:single_easy_with_thermal is successful.
+2026-04-12T22:49:51+00:00 Pilates#07 I: Test hail_mary:1:trivial:4:two_easy_no_tools is successful.
+2026-04-12T22:49:51+00:00 Pilates#08 I: Test hail_mary:1:trivial:5:five_easy_no_tools is successful.
+2026-04-12T22:49:51+00:00 Pilates#09 I: Test hail_mary:1:trivial:6:five_easy_with_tools is successful.
+2026-04-12T22:49:51+00:00 Pilates#10 I: Test hail_mary:2:carrying:0:no_hazard_ahead_ignore_taumoeba is successful.
+2026-04-12T22:49:51+00:00 Pilates#11 I: Test hail_mary:2:carrying:1:no_hazard_ahead_ignore_thermal is successful.
+2026-04-12T22:49:51+00:00 Pilates#12 I: Test hail_mary:2:carrying:2:no_hazard_ahead_ignore_eva is successful.
+2026-04-12T22:49:51+00:00 Pilates#13 I: Test hail_mary:2:carrying:3:last_plot_ignore_tool is successful.
+2026-04-12T22:49:51+00:00 Pilates#14 I: Test hail_mary:3:single_hazard:0:taumoeba_through_astrophage is successful.
+2026-04-12T22:49:51+00:00 Pilates#15 I: Test hail_mary:3:single_hazard:1:thermal_through_radiation is successful.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 16 tests running: hail_mary:3:single_hazard:2:thermal_through_astrophage, hail_mary:3:single_hazard:1:thermal_through_radiation, hail_mary:3:single_hazard:0:taumoeba_through_astrophage, hail_mary:2:carrying:3:last_plot_ignore_tool, hail_mary:2:carrying:2:no_hazard_ahead_ignore_eva, hail_mary:2:carrying:1:no_hazard_ahead_ignore_thermal, hail_mary:2:carrying:0:no_hazard_ahead_ignore_taumoeba, hail_mary:1:trivial:6:five_easy_with_tools, hail_mary:1:trivial:5:five_easy_no_tools, hail_mary:1:trivial:4:two_easy_no_tools, hail_mary:1:trivial:3:single_easy_with_thermal, hail_mary:1:trivial:2:single_easy_with_eva, hail_mary:1:trivial:1:single_easy_with_taumoeba, hail_mary:1:trivial:0:single_easy_no_tool, hail_mary:0:samples:1:sample_2, hail_mary:0:samples:0:sample_1.
+2026-04-12T22:49:51+00:00 Pilates#01 I: End test hail_mary:0:samples:0:sample_1.
+2026-04-12T22:49:51+00:00 Pilates#02 I: End test hail_mary:0:samples:1:sample_2.
+2026-04-12T22:49:51+00:00 Pilates#03 I: End test hail_mary:1:trivial:0:single_easy_no_tool.
+2026-04-12T22:49:51+00:00 Pilates#04 I: End test hail_mary:1:trivial:1:single_easy_with_taumoeba.
+2026-04-12T22:49:51+00:00 Pilates#05 I: End test hail_mary:1:trivial:2:single_easy_with_eva.
+2026-04-12T22:49:51+00:00 Pilates#06 I: End test hail_mary:1:trivial:3:single_easy_with_thermal.
+2026-04-12T22:49:51+00:00 Pilates#07 I: End test hail_mary:1:trivial:4:two_easy_no_tools.
+2026-04-12T22:49:51+00:00 Pilates#08 I: End test hail_mary:1:trivial:5:five_easy_no_tools.
+2026-04-12T22:49:51+00:00 Pilates#09 I: End test hail_mary:1:trivial:6:five_easy_with_tools.
+2026-04-12T22:49:51+00:00 Pilates#10 I: End test hail_mary:2:carrying:0:no_hazard_ahead_ignore_taumoeba.
+2026-04-12T22:49:51+00:00 Pilates#11 I: End test hail_mary:2:carrying:1:no_hazard_ahead_ignore_thermal.
+2026-04-12T22:49:51+00:00 Pilates#12 I: End test hail_mary:2:carrying:2:no_hazard_ahead_ignore_eva.
+2026-04-12T22:49:51+00:00 Pilates#13 I: End test hail_mary:2:carrying:3:last_plot_ignore_tool.
+2026-04-12T22:49:51+00:00 Pilates#14 I: End test hail_mary:3:single_hazard:0:taumoeba_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#15 I: End test hail_mary:3:single_hazard:1:thermal_through_radiation.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 16 tests running: hail_mary:3:single_hazard:2:thermal_through_astrophage, hail_mary:3:single_hazard:1:thermal_through_radiation, hail_mary:3:single_hazard:0:taumoeba_through_astrophage, hail_mary:2:carrying:3:last_plot_ignore_tool, hail_mary:2:carrying:2:no_hazard_ahead_ignore_eva, hail_mary:2:carrying:1:no_hazard_ahead_ignore_thermal, hail_mary:2:carrying:0:no_hazard_ahead_ignore_taumoeba, hail_mary:1:trivial:6:five_easy_with_tools, hail_mary:1:trivial:5:five_easy_no_tools, hail_mary:1:trivial:4:two_easy_no_tools, hail_mary:1:trivial:3:single_easy_with_thermal, hail_mary:1:trivial:2:single_easy_with_eva, hail_mary:1:trivial:1:single_easy_with_taumoeba, hail_mary:1:trivial:0:single_easy_no_tool, hail_mary:0:samples:1:sample_2, hail_mary:0:samples:0:sample_1.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 16 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:3:either_way_same_cost, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:4:two_separate_hazard_groups, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:4:multi_hazard:0:eva_three_different_hazards, hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 16 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:3:either_way_same_cost, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:4:two_separate_hazard_groups, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:4:multi_hazard:0:eva_three_different_hazards, hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#15 I: Start test hail_mary:3:single_hazard:3:eva_through_vacuum.
+2026-04-12T22:49:51+00:00 Pilates#14 I: Start test hail_mary:3:single_hazard:4:eva_through_radiation.
+2026-04-12T22:49:51+00:00 Pilates#13 I: Start test hail_mary:3:single_hazard:5:eva_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#12 I: Start test hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#11 I: Start test hail_mary:4:multi_hazard:0:eva_three_different_hazards.
+2026-04-12T22:49:51+00:00 Pilates#09 I: Start test hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types.
+2026-04-12T22:49:51+00:00 Pilates#08 I: Start test hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route.
+2026-04-12T22:49:51+00:00 Pilates#07 I: Start test hail_mary:4:multi_hazard:4:two_separate_hazard_groups.
+2026-04-12T22:49:51+00:00 Pilates#06 I: Start test hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#05 I: Start test hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help.
+2026-04-12T22:49:51+00:00 Pilates#03 I: Start test hail_mary:5:edge_cases:3:either_way_same_cost.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 16 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:3:either_way_same_cost, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:4:two_separate_hazard_groups, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:4:multi_hazard:0:eva_three_different_hazards, hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 16 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:3:either_way_same_cost, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:4:two_separate_hazard_groups, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:4:multi_hazard:0:eva_three_different_hazards, hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#10 I: Start test hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones.
+2026-04-12T22:49:51+00:00 Pilates#04 I: Start test hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2.
+2026-04-12T22:49:51+00:00 Pilates#02 I: Start test hail_mary:5:edge_cases:4:pick_last_tool.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 16 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:3:either_way_same_cost, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:4:two_separate_hazard_groups, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:4:multi_hazard:0:eva_three_different_hazards, hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 16 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:3:either_way_same_cost, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:4:two_separate_hazard_groups, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:4:multi_hazard:0:eva_three_different_hazards, hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#12 I: Test hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage is successful.
+2026-04-12T22:49:51+00:00 Pilates#11 I: Test hail_mary:4:multi_hazard:0:eva_three_different_hazards is successful.
+2026-04-12T22:49:51+00:00 Pilates#07 I: Test hail_mary:4:multi_hazard:4:two_separate_hazard_groups is successful.
+2026-04-12T22:49:51+00:00 Pilates#03 I: Test hail_mary:5:edge_cases:3:either_way_same_cost is successful.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 16 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:3:either_way_same_cost, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:4:two_separate_hazard_groups, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:4:multi_hazard:0:eva_three_different_hazards, hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 16 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:3:either_way_same_cost, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:4:two_separate_hazard_groups, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:4:multi_hazard:0:eva_three_different_hazards, hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#14 I: Test hail_mary:3:single_hazard:4:eva_through_radiation is successful.
+2026-04-12T22:49:51+00:00 Pilates#13 I: Test hail_mary:3:single_hazard:5:eva_through_astrophage is successful.
+2026-04-12T22:49:51+00:00 Pilates#12 I: End test hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#11 I: End test hail_mary:4:multi_hazard:0:eva_three_different_hazards.
+2026-04-12T22:49:51+00:00 Pilates#07 I: End test hail_mary:4:multi_hazard:4:two_separate_hazard_groups.
+2026-04-12T22:49:51+00:00 Pilates#03 I: End test hail_mary:5:edge_cases:3:either_way_same_cost.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 16 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:3:either_way_same_cost, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:4:two_separate_hazard_groups, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:4:multi_hazard:0:eva_three_different_hazards, hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 16 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:3:either_way_same_cost, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:4:two_separate_hazard_groups, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:4:multi_hazard:0:eva_three_different_hazards, hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#14 I: End test hail_mary:3:single_hazard:4:eva_through_radiation.
+2026-04-12T22:49:51+00:00 Pilates#13 I: End test hail_mary:3:single_hazard:5:eva_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#10 I: Test hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones is successful.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 12 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 12 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:3:single_hazard:5:eva_through_astrophage, hail_mary:3:single_hazard:4:eva_through_radiation, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#10 I: End test hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones.
+2026-04-12T22:49:51+00:00 Pilates#08 I: Test hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route is successful.
+2026-04-12T22:49:51+00:00 Pilates#02 I: Test hail_mary:5:edge_cases:4:pick_last_tool is successful.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 10 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 10 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#08 I: End test hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route.
+2026-04-12T22:49:51+00:00 Pilates#02 I: End test hail_mary:5:edge_cases:4:pick_last_tool.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 9 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 9 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:4:pick_last_tool, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 7 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 7 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#06 I: Test hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage is successful.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 7 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 7 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#06 I: End test hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#04 I: Test hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2 is successful.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 7 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 7 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#09 I: Test hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types is successful.
+2026-04-12T22:49:51+00:00 Pilates#04 I: End test hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 6 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 6 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#09 I: End test hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types.
+2026-04-12T22:49:51+00:00 Pilates#05 I: Test hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help is successful.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 5 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 5 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#05 I: End test hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 4 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 4 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 3 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 3 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#16 I: Start test hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#15 I: Test hail_mary:3:single_hazard:3:eva_through_vacuum is successful.
+2026-04-12T22:49:51+00:00 Pilates#01 I: Start test hail_mary:5:edge_cases:5:single_hazard_at_the_end.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 3 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 3 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#16 I: Test hail_mary:3:single_hazard:2:thermal_through_astrophage is successful.
+2026-04-12T22:49:51+00:00 Pilates#15 I: End test hail_mary:3:single_hazard:3:eva_through_vacuum.
+2026-04-12T22:49:51+00:00 Pilates#01 I: Test hail_mary:5:edge_cases:5:single_hazard_at_the_end is successful.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 3 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 3 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:3:single_hazard:3:eva_through_vacuum, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#16 I: End test hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#01 I: End test hail_mary:5:edge_cases:5:single_hazard_at_the_end.
+2026-04-12T22:49:51+00:00 Pilates#00 I: Still 2 tests running : hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 2 tests running: hail_mary:5:edge_cases:5:single_hazard_at_the_end, hail_mary:3:single_hazard:2:thermal_through_astrophage.
+2026-04-12T22:49:51+00:00 Pilates#00 I: 0 tests running: .
+2026-04-12T22:49:51+00:00 Pilates#00 I: Worker Pilates#11 has ended.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#07 has ended.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#14 has ended.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#13 has ended.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#10 has ended.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#02 has ended.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#06 has ended.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#05 has ended.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#15 has ended.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#16 has ended.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#01 died unexpectedly.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#09 died unexpectedly.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#04 died unexpectedly.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#08 died unexpectedly.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#03 died unexpectedly.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Worker Pilates#12 died unexpectedly.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Used 16 worker during test execution.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#04.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#08.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#10.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#05.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#07.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#09.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#11.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 1 tests with shard Pilates#16.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#02.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#03.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#13.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#14.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#15.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#01.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#12.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Run 2 tests with shard Pilates#06.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#04, 8 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#08, 12 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#10, 12 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#07, 14 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#11, 14 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#09, 7 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#05, 5 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#16, 1 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#03, 15 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#13, 13 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#14, 13 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#02, 11 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#15, 2 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#12, 15 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#01, 2 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Check health of shard Pilates#06, 8 times.
+2026-04-12T22:49:52+00:00 Pilates#00 I: ==============
+2026-04-12T22:49:52+00:00 Pilates#00 I: Summary:
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:5:edge_cases:5:single_hazard_at_the_end is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:3:single_hazard:2:thermal_through_astrophage is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:3:single_hazard:3:eva_through_vacuum is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:5:edge_cases:1:tool_after_hazard_cannot_help is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:4:multi_hazard:2:thermal_handles_both_hazard_types is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:5:edge_cases:2:pick_cheapest_tool_for_astrophage2 is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:5:edge_cases:0:pick_cheapest_tool_for_astrophage is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:5:edge_cases:4:pick_last_tool is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:4:multi_hazard:3:swap_taumoeba_for_eva_mid_route is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:4:multi_hazard:1:thermal_reused_across_two_radiation_zones is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:3:single_hazard:5:eva_through_astrophage is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:3:single_hazard:4:eva_through_radiation is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:5:edge_cases:3:either_way_same_cost is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:4:multi_hazard:4:two_separate_hazard_groups is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:4:multi_hazard:0:eva_three_different_hazards is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:3:single_hazard:6:prefer_taumoeba_over_eva_for_astrophage is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:3:single_hazard:1:thermal_through_radiation is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:3:single_hazard:0:taumoeba_through_astrophage is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:2:carrying:3:last_plot_ignore_tool is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:2:carrying:2:no_hazard_ahead_ignore_eva is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:2:carrying:1:no_hazard_ahead_ignore_thermal is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:2:carrying:0:no_hazard_ahead_ignore_taumoeba is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:1:trivial:6:five_easy_with_tools is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:1:trivial:5:five_easy_no_tools is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:1:trivial:4:two_easy_no_tools is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:1:trivial:3:single_easy_with_thermal is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:1:trivial:2:single_easy_with_eva is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:1:trivial:1:single_easy_with_taumoeba is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:1:trivial:0:single_easy_no_tool is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:0:samples:1:sample_2 is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Test hail_mary:0:samples:0:sample_1 is successful.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Ran: 31 tests in: 0.12 seconds.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Cases: 31.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Tried: 31.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Errors: 0.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Failures: 0.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Skip: 0.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Todo: 0.
+2026-04-12T22:49:52+00:00 Pilates#00 I: Timeout: 0.

@@ -1,0 +1,24 @@
+# dune test
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/sofia/.cache/dune/db
+# Workspace root:
+# /home/sofia/lap2026/lap-2026.github.io/praticas/en/project1/hailmary/hailmary
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/sofia/.opam/lap2026/bin/ocamlc.opt -config > /tmp/dune_b11e89_output
+$ (cd _build/default && /home/sofia/.opam/lap2026/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I lib/.hailmary.objs/byte -I lib/.hailmary.objs/native -intf-suffix .ml -no-alias-deps -opaque -o lib/.hailmary.objs/native/hailmary.cmx -c -impl lib/hailmary.ml)
+$ (cd _build/default && /home/sofia/.opam/lap2026/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -a -o lib/hailmary.cmxa lib/.hailmary.objs/native/hailmary.cmx)
+$ (cd _build/default && /home/sofia/.opam/lap2026/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -o test/test_hail_mary.exe lib/hailmary.cmxa /home/sofia/.opam/lap2026/lib/ocaml/unix.cmxa -I /home/sofia/.opam/lap2026/lib/ocaml /home/sofia/.opam/lap2026/lib/stdlib-shims/stdlib_shims.cmxa /home/sofia/.opam/lap2026/lib/ounit2/advanced/oUnitAdvanced.cmxa /home/sofia/.opam/lap2026/lib/ounit2/oUnit.cmxa test/.test_hail_mary.eobjs/native/dune__exe__Test_hail_mary.cmx)
+$ (cd _build/default/test && ./test_hail_mary.exe)
+> ...............................
+> Ran: 31 tests in: 0.12 seconds.
+> OK
