@@ -11,7 +11,7 @@ Corrections and suggestions are very much welcomed. (e-mail: i.chirica \<at> cam
 Important announcements and changes to this page will be posted in this section.
 
 
-## Referências
+## References
 
 The primary reference for the course is the book "OCaml Programming: Correct + Efficient + Beautiful" by Michael R. Clarkson and others. The book is freely available online at OCaml Programming: [OCaml programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/). In addition to the course materials, instructors encourage reading the book and completing the exercises it proposes. The book also includes lecture videos from Cornell University's CS3110 course, recorded during the pandemic.
 
@@ -58,10 +58,30 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |4|18/3|[Recursive functions over natural numbers (recap). Function type. Polymorphism. Type inference.](slides/en/lec5.pdf)|||
 |4|19/3|[Composite types: pairs, sum types and pattern matching.](slides/en/lec7.pdf)|||
 |4|P||[Exercises: Inductive Reasoning](praticas/en/lab3/lab3_inductive.ipynb) | [Dune project](praticas/en/lab3/tiles.zip)|
-|5|26/3|[Exercises on Lists. Higher-order functions. Maps and folds.](slides/en/lec9.ipynb) [Lists](slides/en/lec9_1.ipynb)|||
+|5|26/3|[Exercises on Lists. Higher-order functions. Maps and folds.](slides/en/lec9.ipynb) [PDF](slides/en/lec9.pdf) [Lists](slides/en/lec9_1.ipynb) [PDF](slides/en/lec9_1.pdf)|||
 |5|P||[Exercises: Product and sum types](praticas/en/lab4/lab4_prod_sum_types_recs.ipynb)||
 |6|P||[Exercises: Lists](praticas/en/lab5/lab4_lists.ipynb) [Exercises: Higher-order functions](praticas/en/lab5/lab5_comb_higer_order_fun.ipynb)||
-|6|1/4|[Merge sort.](slides/pt/aula10.ipynb)|||
-|7|8/4|[Algebraic Types. Binary trees.](slides/en/lec11.ipynb)|||
-|7|9/4|[N-ary trees.](slides/en/lec12.ipynb)|||
+|6|1/4|[Merge sort.](slides/pt/aula10.ipynb) [PDF](slides/pt/aula10.pdf)|||
+|7|8/4|[Algebraic Types. Binary trees.](slides/en/lec11.ipynb) [PDF](slides/en/lec11.pdf)|||
+|7|9/4|[N-ary trees.](slides/en/lec12.ipynb) [PDF](slides/en/lec12.pdf)|||
+|7|P|Project support.|||
 |-|Project 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf) [Dune project](praticas/en/project1/hailmary.zip)|
+|8|15/4|No lecture (ExpoFCT event).|||
+|8|16/4|Exercise session.|||
+|8|16/4|First Test.|||
+|8|P||||
+|9|22/4|No lecture.|||
+|9|23/4|No lecture.|||
+|9|P||[Exercises: Pairing Heap](praticas/en/lab7/lab7_pairing_heap.ipynb)|[PDF](praticas/en/lab7/pairing_heap.pdf)|
+|10|29/4|Modules. Mutable state. Memoization.|||
+|10|30/4|Execution support for Object-Oriented languages.|||
+|10|P||[Exercises: Quad trees](praticas/en/lab8/lab8_quadtrees.ipynb)|[PDF](praticas/en/lab8/lab8_quadtrees.pdf) (To appear)|
+|11|6/5|Stack machines. Support mechanisms for Datalog and Prolog.|||
+|11|7/5|Code as data, parsing, parser generators.|||
+|12|13/5|Interpreter construction. Defining the semantics of a language.|||
+|12|14/5|Type systems. Inference vs. checking. Linearity in Rust.|||
+|13|20/5|Compiler construction.|||
+|13|21/5|Lambda-calculus interpreter. Closures.|||
+|14|27/5|Type inference in Lambda-calculus.|||
+|14|28/5|Test questions.|||
+||9/6|Second test.|||
