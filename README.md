@@ -89,11 +89,12 @@ O plano tentativo para as aulas será aqui exposto.
 |9|22/4|Não houve aula.|||
 |9|23/4|Não houve aula.|||
 |9|P||[Exercícios: Pairing Heap](praticas/pt/lab7/lab7_pairing_heap.ipynb) |[PDF](praticas/pt/lab7/pairing_heap.pdf)|
-|10|29/4|Módulos. Estado mutável. Memoization.|||
-|10|30/4|Suporte à execução de linguagens Object-Oriented|||
-|10|P||[Exercícios: Quad trees](praticas/pt/lab8/lab8_quadtrees.ipynb) |[PDF](praticas/pt/lab8/lab8_quadtrees.pdf)|
-|11|6/5|Máquinas de Pilha. Mecanismos de suporte para Datalog e Prolog.|||
+|10|29/4|[Módulos. Estado mutável.](slides/pt/aula14.pdf)|||
+|10|30/4|[Memoization](slides/pt/aula15.pdf)|||
+|10|P||[Exercícios: Quad trees](praticas/pt/lab8/lab8_quadtrees.ipynb) |[Projeto Dune](praticas/pt/lab8/quad.zip)|
+|11|6/5|Suporte à execução de linguagens Object-Oriented. Máquinas de Pilha. Mecanismos de suporte para Datalog e Prolog.|||
 |11|7/5|Código como dados, parsing, geradores de parsers.|||
+|11|P|| [Exercícios: Pairing Heap Modular](praticas/pt/lab9/lab9_functor_pairing_heap.ipynb) [Exercícios: Memoization](praticas/pt/lab9/lab9_memoisation.ipynb)||
 |12|13/5|Construção de Interpretadores. Definição da semântica de uma linguagem.|||
 |12|14/5|Sistemas de tipos. Inferência vs verificação. Linearidade em Rust|||
 |13|20/5|Construção de compiladores|||
@@ -101,4 +102,3 @@ O plano tentativo para as aulas será aqui exposto.
 |14|27/5|Inferência de tipos em Lambda-Calculus|||
 |14|28/5|Questões para o teste|||
 ||9/6|Segundo teste|||
-

@@ -78,6 +78,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |10|P||[Exercises: Quad trees](praticas/en/lab8/lab8_quadtrees.ipynb)|[PDF](praticas/en/lab8/lab8_quadtrees.pdf) (To appear)|
 |11|6/5|Stack machines. Support mechanisms for Datalog and Prolog.|||
 |11|7/5|Code as data, parsing, parser generators.|||
+|11|P|| [Exercises: Modular Pairing Heap](praticas/en/lab9/lab9_functor_pairing_heap.ipynb) [Exercises: Memoization](praticas/en/lab9/lab9_memoisation.ipynb)||
 |12|13/5|Interpreter construction. Defining the semantics of a language.|||
 |12|14/5|Type systems. Inference vs. checking. Linearity in Rust.|||
 |13|20/5|Compiler construction.|||
