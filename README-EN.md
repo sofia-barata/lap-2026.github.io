@@ -73,12 +73,13 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |9|22/4|No lecture.|||
 |9|23/4|No lecture.|||
 |9|P||[Exercises: Pairing Heap](praticas/en/lab7/lab7_pairing_heap.ipynb)|[PDF](praticas/en/lab7/pairing_heap.pdf)|
-|10|29/4|Modules. Mutable state. Memoization.|||
-|10|30/4|Execution support for Object-Oriented languages.|||
+|10|29/4|[Modules. Mutable state.](slides/en/lec14.pdf)|||
+|10|30/4|[Memoization](slides/en/lec15.pdf)|||
 |10|P||[Exercises: Quad trees](praticas/en/lab8/lab8_quadtrees.ipynb)|[PDF](praticas/en/lab8/lab8_quadtrees.pdf) (To appear)|
-|11|6/5|Stack machines. Support mechanisms for Datalog and Prolog.|||
-|11|7/5|Code as data, parsing, parser generators.|||
+|11|6/5|[Execution support for Object-Oriented languages. Support mechanisms for Datalog and Prolog.](slides/en/lec16.pdf)|||
+|11|7/5|[Code as data, parsing. Stack machines.](slides/en/lec17.pdf)|||
 |11|P|| [Exercises: Modular Pairing Heap](praticas/en/lab9/lab9_functor_pairing_heap.ipynb) [Exercises: Memoization](praticas/en/lab9/lab9_memoisation.ipynb)||
+|-|Project 2|||[From Mondrian to Escher](praticas/en/project2/Eschers.pdf) [Starter Code](https://github.com/lap-2026/project2starter)|
 |12|13/5|Interpreter construction. Defining the semantics of a language.|||
 |12|14/5|Type systems. Inference vs. checking. Linearity in Rust.|||
 |13|20/5|Compiler construction.|||
